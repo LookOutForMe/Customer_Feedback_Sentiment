@@ -90,9 +90,15 @@ Product Comparison: Products are compared based on sentiment averages and feedba
 📷 Visual Outputs
 📉 Sentiment Score Distributions
 
-https://drive.google.com/file/d/1WzYO2EO1sCyawoOmW_iVSvTVRxOJJlQ1/view?usp=sharing
+<div align="center">
+  <img src="https://i.postimg.cc/GmN4Vq2F/hist.png" width="500px">
+</div>
 
 ☁️ Word Cloud for Negative Reviews
+
+<div align="center">
+  <img src="https://i.postimg.cc/C5KrZhgp/word-cloud.png" width="500px">
+</div>
 
 https://drive.google.com/file/d/15-dID_2IPssBq5Z18D6rrQnHruPZu2PJ/view?usp=sharing
 
