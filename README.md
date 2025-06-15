@@ -80,14 +80,14 @@ CREATE TABLE reviews (
 
 --------------------------------------------------------------------------------------------------
 
-📌 Key Insights
+### 📌 Key Insights
 Sentiment Distribution: Visualized to show the polarity and subjectivity of reviews.
 
 Top Complaints: Extracted by analyzing word frequencies in negative sentiment reviews.
 
 Product Comparison: Products are compared based on sentiment averages and feedback distribution.
 
-📷 Visual Outputs
+### 📷 Visual Outputs
 📉 Sentiment Score Distributions
 
 <div align="center">
@@ -100,9 +100,7 @@ Product Comparison: Products are compared based on sentiment averages and feedba
   <img src="https://i.postimg.cc/C5KrZhgp/word-cloud.png" width="500px">
 </div>
 
-https://drive.google.com/file/d/15-dID_2IPssBq5Z18D6rrQnHruPZu2PJ/view?usp=sharing
-
-🚀 How to Run
+### 🚀 How to Run
 1. Clone this repository or download the .ipynb file.
 
 2. Install required libraries using:
@@ -113,6 +111,6 @@ pip install pandas textblob nltk matplotlib wordcloud sqlite3
 
 4. Inspect results and visualizations generated.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Ariyan Shaw
