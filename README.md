@@ -27,7 +27,7 @@ This project involves:
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python 3.12**
 - **Pandas** for data manipulation
 - **NLTK / VADER** for sentiment analysis
 - **SQLite** for database management
